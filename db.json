@@ -1,0 +1,24 @@
+{
+  "payload": [
+    {
+      "id": "1",
+      "name": "BMW"
+    },
+    {
+      "id": "2",
+      "name": "Holden"
+    },
+    {
+      "id": "3",
+      "name": "Toyota"
+    },
+    {
+      "id": "4",
+      "name": "Bugatti"
+    },
+    {
+      "id": "5",
+      "name": "Lamborghini"
+    }
+  ]
+}
